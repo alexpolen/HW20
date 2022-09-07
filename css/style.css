@@ -362,4 +362,20 @@ button {
     align-items: center;
 }
 
-  
+.userFlow img{
+    max-width: 1600px;
+}
+
+.styleTile img{
+    max-width: 1200px;
+}
+
+.ALL {
+    margin-left: 320px;
+    margin-right: 320px;
+    scale:0.97;
+}
+
+.caseStudyFooter {
+    padding: 0 0;
+}
